@@ -1,5 +1,5 @@
 # geodev-hackerlab
 A place for geodev hacker labs
 
-![App](https://raw.github.com/alaframboise/geodev-hackerlab/master/mapappsteps.png)
+![Steps](https://raw.githubusercontent.com/alaframboise/geodev-hackerlab/master/images/mapappsteps.png)
 
