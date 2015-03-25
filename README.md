@@ -10,7 +10,7 @@ A place for geodev hacker labs
 ### Labs
 
 Data (ArcGIS Online)
-* Import csv, geojson and shapefile
+* [Import data](./data/import data.md)
 * Perform analyses
 * Enrichment 
 
