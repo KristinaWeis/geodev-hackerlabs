@@ -1,8 +1,8 @@
-View Layer in a Map
+###View Layer in a Map
 
 The eaiset way to explore a layer is to use the [Map Viewer](http://doc.arcgis.com/en/arcgis-online/use-maps/view-maps.htm). 
 
-Steps
+###Steps
 
 1. Go to ArcGIS.com and login.
 2. Go to My Content.
