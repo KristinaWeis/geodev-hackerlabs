@@ -10,22 +10,29 @@ A place for geodev hacker labs
 ### Labs
 
 Data (ArcGIS Online)
-* [Import data](./data/import data.md)
-* Perform analyses
-* Enrichment 
+* [Import Data](./data/import data.md)
+* [View Layer Data via REST](./data/view layer data via rest.md)
+* [View a Layer in a Map](./data/view a layer in a map.md)
+* [Enrich with Population Data](./data/enrich with population data.md)
+* [Clip Data](./data/clip data.md)
+* Create Buffers
+* Create Drive Times
+* 
 
 Design (Map viewer)
-* Applying renderers
-* Smart mapping
-* Configuring popups
-* Scale visibility
+* [Make a Map](./design/make a map.md)
+* [Style Layers](./design/style layers.md)
+* [Save Layers](./design/save layer styles.md)
+* Configure popups
+* Set Scale visibility
+* Save layer with your credentials
 
 Develop (Apps and APIs)
 * Create a WAB app
-* Create a Template app
-* Create a js api app
-* Create an esri-leaflet app
-* Create an app studio app
+* Create a Template App
+* Create a ArcGIS JS App
+* Create an Esri-leaflet App
+* Create an AppStudio App
 
 ### Licensing
 Copyright 2015 Esri
