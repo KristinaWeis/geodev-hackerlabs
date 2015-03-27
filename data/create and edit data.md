@@ -35,4 +35,7 @@ In this lab you will create a new point feature service and add data to it.
 
 5. Zoom to Portland, USA.
 
-6. Click `Edit > New Feature` and add some points to the dataset.
+6. Click `Edit > New Feature` and add some points to the dataset. Ensure you add field values.
+
+Challenge: Try to edit and move some points and update the data.
+

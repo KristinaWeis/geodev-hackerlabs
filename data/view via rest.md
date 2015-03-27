@@ -10,6 +10,23 @@ All of your layers are [ArcGIS REST feature services](http://resources.arcgis.co
 
 3. Select a feature layer.
 
-4. Click on the url for the layer.
+4. Click on the url for the layer.  It should look something like this:
 
-5. Explore the query and export functionality.
+```
+http://services.arcgis.com/uCXeTVveQzP4IIcx/arcgis/rest/services/Bike_Parking/FeatureServer/0
+```
+
+5. Explore the meta data.
+
+6. At the bottom of the page, try the `Query` functionality.
+
+e.g.
+```
+Where: 1=1
+Out Fields: *
+Format: HTML
+```
+
+7. Click `Query (GET)`
+
+Challenge: Try a number of other queries and different return formats.

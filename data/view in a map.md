@@ -13,3 +13,5 @@ One of the eaiset ways to explore a layer (feature service) is to use the [Map V
 4. Explore the data by clicking on the features.
 
 5. Open the table and explore the data.
+
+Challenge: Try selecting different features from the map and the table.
