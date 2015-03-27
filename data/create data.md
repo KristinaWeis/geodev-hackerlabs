@@ -6,7 +6,7 @@
 
 1. Go to [developers.arcgis.com](http://developers.arcgis.com) and login.
 
-2. In Hosted Data, use New Feature Service to create a new dataset. 
+2. In Hosted Data, use "New Feature Service" to create a new dataset. 
 
 3. Specify the following:
 
@@ -25,9 +25,9 @@
 
 5. Choose any symbol and publish. 
 
-6. Click "Edit in ArcGIS Online".  This should load the layer into the Map Viewer.
+6. Click "Edit in ArcGIS Online". This should load the layer into the Map Viewer.
 
 7. Zoom to Portland, USA.
 
-8. Click Edit > New Feature and add some points to the dataset.
+8. Click "Edit" > "New Feature" and add some points to the dataset.
 
