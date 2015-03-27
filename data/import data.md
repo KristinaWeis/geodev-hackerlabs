@@ -13,7 +13,7 @@ NOTE: Before you start make sure you have forked and cloned this repo.
 3. In `My Content`, use `Add Items` to import each dataset into your account. Make sure you publish each dataset as a feature service. This is optional but try to group the datasets in folders.
 
 e.g.
-  
+```  
 * PDX Data
  * Neighborhoods
  * Rail Lines
@@ -23,4 +23,4 @@ e.g.
  * Bike Parking
  * Bike Routes
  * Bike Paths and Lanes
-
+```

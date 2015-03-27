@@ -12,16 +12,20 @@ In this lab you will create a new point feature service and add data to it.
 
 3. Specify the following:
 
+```
  * Title: PDX Points
  * Description: PDX Points
  * Type: Points
  * Tags: Portland
+```
 
 4. Add the following fields:
   
+```
  * Name (string)
  * Type (string)
  * Date (date)
+```
 
  NOTE: You can create as many fiends you want.
 
