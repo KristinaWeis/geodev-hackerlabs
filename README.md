@@ -16,7 +16,7 @@ Data (ArcGIS Online)
 * [Create and Edit Data](./data/create and edit data.md)
 * [View via REST](./data/view via rest.md)
 * [View in a Map](./data/view in a map.md)
-* [Enrich with Population Information](./data/enrich layer with population data.md)
+* [Enrich with Population Data](./data/enrich with population data.md)
 * [Clip Layers](./data/clip layers.md)
 * Create Buffers
 * Create Drive Times
