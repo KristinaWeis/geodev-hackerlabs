@@ -1,4 +1,4 @@
-###Create Data
+###Create and Edit Data
 
 [ArcGIS for Developers](http://developers.arcgis.com) allows you to interactively create and publish hosted web services (feature services) to the cloud. All you need to do is specify the feature service name and fields and then save it. You can add data to the service interactively with the Map Viewer or with other ArcGIS apps e.g. ArcGIS Collector or via custom apps.  
 
@@ -37,5 +37,5 @@ In this lab you will create a new point feature service and add data to it.
 
 6. Click `Edit > New Feature` and add some points to the dataset. Ensure you add field values.
 
-Challenge: Try to edit and move some points and update the data.
+Challenge: Explore editing by moving some points and updating the field data.
 
