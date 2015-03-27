@@ -6,10 +6,9 @@ In this lab you will use [Add items](http://doc.arcgis.com/en/arcgis-online/shar
 
 1. Download [these datasets](./downloads) to your local system. 
 2. Go to ArcGIS.com and login.
-3. In My Content, use Add Item to import the each dataset. 
-
-* Make sure you publish each as a feature service
-* You might want to put related data in separate folders. e.g. 
+3. In My Content, use Add Items to import the each dataset.
+ * Make sure you publish each as a feature service
+ * You might want to put related data in separate folders. e.g. 
   
 * PDX Data
  * Neighborhoods
