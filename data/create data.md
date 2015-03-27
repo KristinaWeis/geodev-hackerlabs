@@ -10,30 +10,29 @@ In this lab you will create a new point feature service and add data to it.
 
 2. In `Hosted Data`, use `New Feature Service` to create a new dataset. 
 
-Specify the following:
+ Specify the following:
 
-```
+ ```
  * Title: PDX Points
  * Description: PDX Points
  * Type: Points
  * Tags: Portland
-```
+ ```
 
-Add the following fields:
+ Add the following fields:
   
-```
+ ```
  * Name (string)
  * Type (string)
  * Date (date)
-```
+ ```
 
  NOTE: You can create as many fiends you want.
 
-5. Choose any symbol and publish. 
+3. Choose any symbol and publish. 
 
-6. Click `Edit in ArcGIS Online`. This should load the layer into the Map Viewer.
+4. Click `Edit in ArcGIS Online`. This should load the layer into the Map Viewer.
 
-7. Zoom to Portland, USA.
+5. Zoom to Portland, USA.
 
-8. Click `Edit > New Feature` and add some points to the dataset.
-
+6. Click `Edit > New Feature` and add some points to the dataset.
