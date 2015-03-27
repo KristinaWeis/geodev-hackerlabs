@@ -1,6 +1,6 @@
 ###Import Data
 
-ArcGIS Online allows you to import [a wide variety of data types](http://doc.arcgis.com/en/arcgis-online/share-maps/supported-items.htm) into the cloud. In this lab you will use [Add items](http://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm) to add data to your account (as layers) so they can be accessed later by apps and APIs.
+ArcGIS Online allows you to import [a wide variety of data types](http://doc.arcgis.com/en/arcgis-online/share-maps/supported-items.htm) into the cloud. In this lab you will use [Add items](http://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm) to add data to your account. Each dataset is added as [hosted web layer](http://doc.arcgis.com/en/arcgis-online/share-maps/hosted-web-layers.htm) that can be accessed later by apps and APIs.
 
 ###Steps
 
