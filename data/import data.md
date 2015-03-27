@@ -1,14 +1,16 @@
 ###Import Data
 
-Importing data into ArcGIS Online is often one of the steps to every project. Try importing some data to start your project.
+ArcGIS Online allows you to import [a wide variety of data types](http://doc.arcgis.com/en/arcgis-online/share-maps/supported-items.htm) into the cloud. In this lab you will use [Add items](http://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm) to add data to your account. Each dataset is added as [hosted web layer](http://doc.arcgis.com/en/arcgis-online/share-maps/hosted-web-layers.htm) that can be accessed later by apps and APIs.
 
 ###Steps
 
-1. Download the [Portland datasets](./downloads) to your local system. 
-2. Go to ArcGIS.com and login.
-3. Now import the each dataset with Add Item. 
- * Make sure you publish each as a feature service
- * You might also want to put related data in separate folders. e.g. 
+1. Fork and clone this repo.
+
+2. Find the datasets on your system in the [/data/pdx folder](./pdx). 
+
+3. Go to [www.arcgis.com](http://www.arcgis.com) and login.
+
+4. In My Content, use Add Items to import each dataset into your account.
   
 * PDX Data
  * Neighborhoods
@@ -20,4 +22,8 @@ Importing data into ArcGIS Online is often one of the steps to every project. Tr
  * Bike Routes
  * Bike Paths and Lanes
 
-Visit [Add items](http://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm) for more help.   You can also view the [different types of data formats](http://doc.arcgis.com/en/arcgis-online/share-maps/supported-items.htm) that are supported. 
+NOTE:
+
+ * Make sure you publish each as a feature service
+ * Put related data in separate folders
+
