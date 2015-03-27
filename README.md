@@ -3,9 +3,11 @@ A place for geodev hacker labs
 
 ![Steps](./images/mapappsteps.png)
 
-### Get Started
+### Getting Started
 
-[Sign up for an ArcGIS Developer subscription](https://developers.arcgis.com/en/sign-up/)
+1. [Sign up for an ArcGIS Developer subscription](https://developers.arcgis.com/en/sign-up/)
+2. [Sign up for a Github account](http://github.com/join)
+3. Fork and Clone this repo.
 
 ### Labs
 
@@ -14,11 +16,10 @@ Data (ArcGIS Online)
 * [Create Data](./data/create data.md)
 * [View Layer via REST](./data/view layer via rest.md)
 * [View Layer in a Map](./data/view layer in a map.md)
-* [Enrich with Population Data](./data/enrich with population data.md)
-* [Clip Data](./data/clip data.md)
+* [Enrich Layer with Population Data](./data/enrich layer with population data.md)
+* [Clip Layers](./data/clip layers.md)
 * Create Buffers
 * Create Drive Times
-* 
 
 Design (Map viewer)
 * [Make a Map](./design/make a map.md)

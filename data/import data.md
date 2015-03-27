@@ -2,16 +2,18 @@
 
 ArcGIS Online allows you to import [a wide variety of data types](http://doc.arcgis.com/en/arcgis-online/share-maps/supported-items.htm) into the cloud. In this lab you will use [Add items](http://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm) to add data to your account. Each dataset is added as [hosted web layer](http://doc.arcgis.com/en/arcgis-online/share-maps/hosted-web-layers.htm) that can be accessed later by apps and APIs.
 
+NOTE: Before you start make sure you have forked and cloned this repo.
+
 ###Steps
 
-1. Fork and clone this repo.
+1. Find the datasets on your system in the [/data/pdx folder](./pdx). 
 
-2. Find the datasets on your system in the [/data/pdx folder](./pdx). 
+2. Go to [www.arcgis.com](http://www.arcgis.com) and login.
 
-3. Go to [www.arcgis.com](http://www.arcgis.com) and login.
+3. In `My Content`, use `Add Items` to import each dataset into your account. Make sure you publish each dataset as a feature service. This is optional but try to group the datasets in folders.
 
-4. In My Content, use Add Items to import each dataset into your account.
-  
+e.g.
+```  
 * PDX Data
  * Neighborhoods
  * Rail Lines
@@ -21,9 +23,4 @@ ArcGIS Online allows you to import [a wide variety of data types](http://doc.arc
  * Bike Parking
  * Bike Routes
  * Bike Paths and Lanes
-
-NOTE:
-
- * Make sure you publish each as a feature service
- * Put related data in separate folders
-
+```
