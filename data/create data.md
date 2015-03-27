@@ -13,23 +13,23 @@ In this lab you will create a new point feature service and add data to it.
  Specify the following:
 
  ```
- * Title: PDX Points
- * Description: PDX Points
- * Type: Points
- * Tags: Portland
+ Title: PDX Points
+ Description: PDX Points
+ Type: Points
+ Tags: Portland
  ```
 
  Add the following fields:
   
  ```
- * Name (string)
- * Type (string)
- * Date (date)
+ Name (string)
+ Type (string)
+ Date (date)
  ```
 
  NOTE: You can create as many fiends you want.
 
-3. Choose any symbol and publish. 
+3. Choose any symbol and `Publish`. 
 
 4. Click `Edit in ArcGIS Online`. This should load the layer into the Map Viewer.
 
