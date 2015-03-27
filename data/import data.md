@@ -24,3 +24,5 @@ e.g.
  * Bike Routes
  * Bike Paths and Lanes
 ```
+
+Challenge: Explore the Share and Edit capabilities of each layer.

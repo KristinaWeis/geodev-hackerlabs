@@ -1,4 +1,4 @@
-###View Layer in a Map
+###View in a Map
 
 One of the eaiset ways to explore a layer (feature service) is to use the [Map Viewer](http://doc.arcgis.com/en/arcgis-online/use-maps/view-maps.htm). 
 
@@ -13,3 +13,5 @@ One of the eaiset ways to explore a layer (feature service) is to use the [Map V
 4. Explore the data by clicking on the features.
 
 5. Open the table and explore the data.
+
+Challenge: Explore the data by selecting different features from the map and the table.

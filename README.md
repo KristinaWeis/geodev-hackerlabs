@@ -13,10 +13,10 @@ A place for geodev hacker labs
 
 Data (ArcGIS Online)
 * [Import Data](./data/import data.md)
-* [Create Data](./data/create data.md)
-* [View Layer via REST](./data/view layer via rest.md)
-* [View Layer in a Map](./data/view layer in a map.md)
-* [Enrich Layer with Population Data](./data/enrich layer with population data.md)
+* [Create and Edit Data](./data/create and edit data.md)
+* [View via REST](./data/view via rest.md)
+* [View in a Map](./data/view in a map.md)
+* [Enrich with Population Data](./data/enrich with population data.md)
 * [Clip Layers](./data/clip layers.md)
 * Create Buffers
 * Create Drive Times
