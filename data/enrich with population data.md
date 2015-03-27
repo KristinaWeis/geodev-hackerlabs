@@ -16,6 +16,6 @@ In this lab you will add enrich neighborhood polygons with population data.
 
 4. Now `Run Analysis`.
 
-5. Click on the new layer and expore the new population fields added to each neighborhood.
+5. Explore the new layer and the new population field added to each neighborhood.
 
 Challenge: Explore the other enrichment fields available.
