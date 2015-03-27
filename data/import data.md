@@ -4,11 +4,13 @@ With ArcGIS Online you can import [a wide variety of data types](http://doc.arcg
 
 ###Steps
 
-1. Download [these datasets](./pdx) to your local system. 
+1. Fork and clone this repo.
 
-2. Go to ArcGIS.com and login.
+2. Find the datasets in [the /data/pdx folder](./pdx). 
 
-3. In My Content, use Add Items to import each dataset into your account.
+3. Go to [ArcGIS.com](http://arcgis.com) and login.
+
+4. In My Content, use Add Items to import each dataset into your account.
 
  * Make sure you publish each as a feature service
  * You might want to put related data in separate folders. e.g. 
