@@ -10,7 +10,7 @@ In this lab you will create a new point feature service and add data to it.
 
 2. In `Hosted Data`, use `New Feature Service` to create a new dataset. 
 
-3. Specify the following:
+Specify the following:
 
 ```
  * Title: PDX Points
@@ -19,7 +19,7 @@ In this lab you will create a new point feature service and add data to it.
  * Tags: Portland
 ```
 
-4. Add the following fields:
+Add the following fields:
   
 ```
  * Name (string)
