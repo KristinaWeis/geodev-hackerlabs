@@ -21,7 +21,7 @@
  * Type (string)
  * Date (date)
 
-NOTE: You can create as many fiends you want.
+ NOTE: You can create as many fiends you want.
 
 5. Choose any symbol and publish. 
 
