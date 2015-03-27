@@ -4,7 +4,7 @@ With ArcGIS Online you can import [a wide variety of data types](http://doc.arcg
 
 ###Steps
 
-1. Download [these datasets](./downloads) to your local system. 
+1. Download [these datasets](./pdx) to your local system. 
 
 2. Go to ArcGIS.com and login.
 
