@@ -10,16 +10,16 @@
 
 3. Specify the following:
 
-* Title: PDX Points
-* Description: PDX Points
-* Type: Points
-* Tags: Portland
+ * Title: PDX Points
+ * Description: PDX Points
+ * Type: Points
+ * Tags: Portland
 
 4. Add the following fields:
   
-* Name (string)
-* Type (string)
-* Date (date)
+ * Name (string)
+ * Type (string)
+ * Date (date)
 
 NOTE: You can create as many fiends you want.
 
