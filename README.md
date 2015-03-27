@@ -17,14 +17,14 @@ Data (ArcGIS Online)
 * [View via REST](./data/view via rest.md)
 * [View in a Map](./data/view in a map.md)
 * [Enrich with Population Data](./data/enrich with population data.md)
+* [Create Buffers](/data/create buffers.md)
+* [Create Walk Times](./data/create walk times.md)
 * [Clip Layers](./data/clip layers.md)
-* Create Buffers
-* Create Drive Times
 
 Design (Map viewer)
-* [Make a Map](./design/make a map.md)
-* [Style Layers](./design/style layers.md)
-* [Save Layers](./design/save layer styles.md)
+* [Create a New Map](./design/create a new map.md)
+* [Style Map Layers](./design/style map layers.md)
+* Save Layers
 * Configure popups
 * Set Scale visibility
 * Save layer with your credentials
